@@ -5,7 +5,8 @@ Copyright (c) 2022, Geert JM Vanderkelen
 
 `xconv` is a collection of functionality converting data.  
 It extends whatever is provided by the [standard Go library][1], contains
-no magic, and probably does offer what can be found in various other projects.
+no magic, and probably does offer not more what can be found in various other
+projects.
 
 License
 -------
